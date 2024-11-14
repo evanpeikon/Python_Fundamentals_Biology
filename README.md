@@ -126,4 +126,5 @@ This second section a compliment to the guide above on Python Fundamentals For B
 
 # 🧬 Additional Resources:
 - Projects (easy to hard)
+- Machine learning 
 - F1L, Tommy books, etc
