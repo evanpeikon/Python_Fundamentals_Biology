@@ -600,7 +600,15 @@ Which, produces the following figure:
 
 # 🧬 Additional Resources
 
+After completing this guide and [Bash Fundamentals For Bioinformatics](https://github.com/evanpeikon/bash_fundamentals/tree/main), you should have a solid foundation in basic Python and Bash programming, as well as data visualization skills relevant to bioinformatics. If you're eager to dive deeper, I recommend checking out my [systems_biology](https://github.com/evanpeikon/systems_biology/tree/main) code repository. It includes a variety of functions designed for numerical methods and solving common problems in systems biology. Experiment with the code—deconstruct it, modify variables, and explore how different functions work. For those interested in learning about machine learning, I’ve also created beginner-friendly tutorials that you can find [here](https://github.com/evanpeikon/Machine-Learning/tree/main).
 
-- Projects (easy to hard)
-- Machine learning 
-- F1L, Tommy books, etc
+Finally, I strongly encourage you to start your own projects. Whether it’s reproducing a figure from a paper using publicly available data or completing an end-to-end project on a topic of personal interest, this hands-on approach is invaluable. While I’ve spent countless hours exploring courses, tutorials, and books to build my computational biology skills, I’ve found that tackling real projects, troubleshooting challenges, and learning on the fly has been the most effective method for both myself and others.
+
+If you’re unsure where to begin, Dean Lee’s [Figure One Lab](https://github.com/deanslee/FigureOneLab) is an excellent starting point and a resource I’ve drawn inspiration from. Additionally, [Tommy Tang's work](https://tommytang.bio.link) has been incredibly helpful, and I highly recommend exploring it. You can also check out some projects I've put together with reproducible code below:
+
+- [BLAST - The Biological Search Engine](https://github.com/evanpeikon/BLAST)
+- [Decoding The Viral Proteome](https://github.com/evanpeikon/viral-proteome)
+- [Amiloride in Multiple Myeloma: A Deep Dive into RNA-Seq Data Analysis](https://github.com/evanpeikon/GSE_95077)
+- [Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model](https://github.com/evanpeikon/GSE_161904)
+
+> 📫 If you have any questions with the material in this code repository you can shoot me an email at evanpeikon@gmail.com. 
